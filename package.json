@@ -1,0 +1,8 @@
+{
+  "name": "jest-svelte-resolver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tanhauhau/jest-svelte-resolver.git",
+  "author": "Tan Li Hau <lhtan93@gmail.com>",
+  "license": "MIT"
+}
